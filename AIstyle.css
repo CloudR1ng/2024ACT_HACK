@@ -1,0 +1,208 @@
+.AI {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.AI .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1920px;
+    height: 1260px;
+    position: relative;
+}
+
+.AI .footer {
+    position: absolute;
+    width: 1922px;
+    height: 180px;
+    top: 1080px;
+    left: 0;
+    background-color: transparent;
+}
+
+.AI .overlap-group {
+    position: relative;
+    width: 1920px;
+    height: 180px;
+    background-color: #000000;
+}
+
+.AI .image {
+    position: absolute;
+    width: 375px;
+    height: 91px;
+    top: 35px;
+    left: 114px;
+    object-fit: cover;
+}
+
+.AI .text-wrapper {
+    position: absolute;
+    top: 90px;
+    left: 542px;
+    font-family: "KyivType Sans-Regular-", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.AI .head {
+    position: absolute;
+    width: 1922px;
+    height: 180px;
+    top: 0;
+    left: 0;
+}
+
+.AI .text-wrapper-2 {
+    position: absolute;
+    top: 58px;
+    left: 65px;
+    background: linear-gradient(
+        180deg,
+        rgb(229.5, 0, 255) 0%,
+        rgb(91.09, 2.83, 255) 100%
+    );
+    -webkit-background-clip: text !important;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-fill-color: transparent;
+    font-family: "Liu Jian Mao Cao-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.AI .nav {
+    position: absolute;
+    width: 805px;
+    height: 51px;
+    top: 58px;
+    left: 556px;
+}
+
+.AI .text-wrapper-3 {
+    position: absolute;
+    width: 115px;
+    top: 0;
+    left: 0;
+    font-family: "Koulen-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.AI .text-wrapper-4 {
+    position: absolute;
+    width: 82px;
+    top: 0;
+    left: 717px;
+    font-family: "Koulen-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.AI .text-wrapper-5 {
+    position: absolute;
+    width: 44px;
+    top: 0;
+    left: 382px;
+    font-family: "Koulen-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.AI .menu-bar {
+    position: absolute;
+    width: 50px;
+    height: 26px;
+    top: 77px;
+    left: 1725px;
+}
+
+.AI .rectangle {
+    position: absolute;
+    width: 50px;
+    height: 6px;
+    top: 0;
+    left: 0;
+    background-color: #d9d9d9;
+}
+
+.AI .rectangle-2 {
+    position: absolute;
+    width: 50px;
+    height: 6px;
+    top: 10px;
+    left: 0;
+    background-color: #d9d9d9;
+}
+
+.AI .rectangle-3 {
+    position: absolute;
+    width: 50px;
+    height: 6px;
+    top: 20px;
+    left: 0;
+    background-color: #d9d9d9;
+}
+
+.AI .overlap {
+    position: absolute;
+    width: 1920px;
+    height: 900px;
+    top: 180px;
+    left: 0;
+    background: linear-gradient(
+        180deg,
+        rgba(135.58, 191.96, 227.01, 0.6) 0%,
+        rgba(52.34, 110.84, 91.34, 0.6) 100%
+    );
+}
+
+.AI .rectangle-4 {
+    position: absolute;
+    width: 1416px;
+    height: 900px;
+    top: 0;
+    left: 252px;
+    background-color: #d9d9d96b;
+}
+
+.AI .rectangle-5 {
+    position: absolute;
+    width: 950px;
+    height: 85px;
+    top: 766px;
+    left: 485px;
+    background-color: #acacac;
+    border-radius: 94px;
+}
+
+.AI .line {
+    position: absolute;
+    width: 1100px;
+    height: 11px;
+    top: 729px;
+    left: 410px;
+}
