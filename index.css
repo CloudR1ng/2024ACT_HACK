@@ -1,0 +1,308 @@
+.footer-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #000;
+    width: 1920px;
+    height: 207px;
+}
+.image-6-icon {
+    position: absolute;
+    top: 52px;
+    left: 89px;
+    width: 375px;
+    height: 104.7px;
+    object-fit: cover;
+}
+.tel-010-7574-1419 {
+    position: absolute;
+    top: 103.5px;
+    left: 542px;
+    font-weight: 300;
+    display: inline-block;
+    width: 270px;
+    height: 43.7px;
+}
+.footer {
+    position: absolute;
+    top: 1980px;
+    left: 0px;
+    width: 1920px;
+    height: 207px;
+    font-size: 30px;
+    font-family: 'Gothic A1';
+}
+.image-7-icon {
+    position: absolute;
+    top: 0px;
+    left: 1101px;
+    width: 819px;
+    height: 600px;
+    object-fit: cover;
+}
+.image-icon {
+    position: absolute;
+    top: 3px;
+    left: 0px;
+    width: 1920px;
+    height: 600px;
+    opacity: 0.64;
+}
+.p {
+    margin: 0;
+}
+.div {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 479.5px);
+    font-weight: 900;
+    background: linear-gradient(180deg, #000);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    width: 959px;
+    height: 238.9px;
+}
+.i {
+    position: absolute;
+    top: 151.72px;
+    left: calc(50% - 420.5px);
+    font-size: 45px;
+    display: inline-block;
+    font-weight: 900;
+    background: linear-gradient(180deg, #000);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: left;
+    width: 900px;
+    height: 58.1px;
+}
+.maintextwithai {
+    position: absolute;
+    top: 105.46px;
+    left: calc(50% - 910px);
+    width: 959px;
+    height: 238.9px;
+}
+.sangdambutton-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 50px;
+    background-color: #3f98fd;
+    width: 325px;
+    height: 110.3px;
+}
+.div1 {
+    position: absolute;
+    top: 29.81px;
+    left: calc(50% - 87.5px);
+    font-weight: 900;
+    display: inline-block;
+    width: 175px;
+    height: 51px;
+}
+.sangdambutton {
+    position: absolute;
+    top: 457.19px;
+    left: 372px;
+    width: 325px;
+    height: 110.3px;
+    text-align: left;
+    font-size: 45px;
+}
+.section1 {
+    position: absolute;
+    top: 177px;
+    left: 0px;
+    width: 1920px;
+    height: 603px;
+    text-align: center;
+}
+.ai-container {
+    position: absolute;
+    top: 92px;
+    left: calc(50% - 350px);
+    font-weight: 900;
+    display: inline-block;
+    width: 699px;
+    height: 234px;
+}
+.ai1 {
+    position: absolute;
+    top: 30px;
+    left: calc(50% - 132.5px);
+    font-weight: 900;
+    display: inline-block;
+    width: 265px;
+    height: 45px;
+}
+.aibutton {
+    position: absolute;
+    top: 369px;
+    left: 797px;
+    width: 325px;
+    height: 110.3px;
+    font-size: 45px;
+    color: #fff;
+}
+.function-2-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 1.8px;
+    object-fit: contain;
+}
+.image-8-icon {
+    position: absolute;
+    top: 57px;
+    left: 0px;
+    width: 498px;
+    height: 548px;
+    object-fit: cover;
+}
+.function-2 {
+    position: absolute;
+    top: 1376px;
+    left: calc(50% - 960px);
+    width: 1920px;
+    height: 605px;
+    color: #000;
+}
+.div2 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 497px);
+    font-weight: 900;
+    display: inline-block;
+    width: 994px;
+    height: 253px;
+}
+.div3 {
+    position: absolute;
+    top: 30px;
+    left: calc(50% - 89.5px);
+    font-weight: 900;
+    display: inline-block;
+    width: 179px;
+    height: 54px;
+}
+.diarybutton {
+    position: absolute;
+    top: 300px;
+    left: 334px;
+    width: 325px;
+    height: 110.3px;
+    font-size: 45px;
+    color: #fff;
+}
+.function-1 {
+    position: absolute;
+    top: 876px;
+    left: calc(50% - 497px);
+    width: 994px;
+    height: 410.3px;
+    color: #000;
+}
+.navbar {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #000;
+    width: 1920px;
+    height: 180px;
+}
+.stells {
+    position: absolute;
+    top: 58px;
+    left: 65px;
+    background: linear-gradient(90deg, #e500ff, #5b03ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.diary {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: inline-block;
+    width: 115px;
+    height: 51px;
+}
+.call {
+    position: absolute;
+    top: 0px;
+    left: 717px;
+    display: inline-block;
+    width: 82px;
+    height: 51px;
+}
+.ai2 {
+    position: absolute;
+    top: 0px;
+    left: 382px;
+    display: inline-block;
+    width: 44px;
+    height: 51px;
+}
+.nav {
+    position: absolute;
+    top: 58px;
+    left: 556px;
+    width: 799px;
+    height: 51px;
+    font-size: 48px;
+    font-family: Koulen;
+}
+.menubar-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #d9d9d9;
+    width: 50px;
+    height: 6px;
+}
+.menubar-item {
+    position: absolute;
+    top: 10px;
+    left: 0px;
+    background-color: #d9d9d9;
+    width: 50px;
+    height: 6px;
+}
+.menubar-inner {
+    position: absolute;
+    top: 20px;
+    left: 0px;
+    background-color: #d9d9d9;
+    width: 50px;
+    height: 6px;
+}
+.menubar {
+    position: absolute;
+    top: 77px;
+    left: 1725px;
+    width: 50px;
+    height: 26px;
+}
+.head {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 180px;
+    font-size: 64px;
+    font-family: 'Liu Jian Mao Cao';
+}
+.index {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 2187px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 100px;
+    color: #fff;
+    font-family: Inter;
+}
+
